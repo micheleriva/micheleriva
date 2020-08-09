@@ -9,6 +9,8 @@
 - 🗣  I sometimes give talks about **functional programming** and **OSS**
 - ✍️  I write **[dozens of public domains articles](https://www.hackdoor.io/authors/3nxYO2ek/michele-riva)**
 
+## Some stats
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=micheleriva&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheleriva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
