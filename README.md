@@ -7,7 +7,7 @@
 - ⚙️  I love to code in **Node.js**, **TypeScript**, **Go**, **Elixir**
 - 🔭  I'd like to work more on **Haskell**, **Rust**, **OCaml**, **Scheme**
 - 🗣  I sometimes give talks about **functional programming** and **OSS**
-- ✍️  I write **[dozens of public domains articles](https://www.hackdoor.io/authors/3nxYO2ek/michele-riva)**
+- ✍️  I write **[dozens of public domains articles](https://www.hackdoor.io/users/micheleriva)**
 
 ## Some stats
 
