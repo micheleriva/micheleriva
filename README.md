@@ -11,7 +11,8 @@
 
 ## Some stats
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=micheleriva&margin-w=15)](https://github-profile-trophy.vercel.app/?username=micheleriva&margin-w=15)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=micheleriva&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=micheleriva&margin-w=15&margin-h=15)
+<br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheleriva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Keep in touch
