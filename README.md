@@ -2,7 +2,6 @@
 
 - 🏢   I'm currently working as a **Senior Software Engineer** at **[ViacomCBS](https://viacbs.com)**
 - 📙   I'm writing a book about **Next.js** for **[Packt](https://www.packtpub.com)**
-- 💼   I've co-founded **[Hackdoor](https://hackdoor.io)**
 - ⚙️    I love to code in **Node.js**, **TypeScript**, **Go**, **Elixir**
 - 🔭   I'd like to work more on **Haskell**, **Rust**, **Erlang**, **OCaml**, **Scheme**
 - 🗣   I sometimes give talks about **functional programming**, **OSS** and... **philosophy**.
