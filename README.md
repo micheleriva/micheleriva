@@ -11,9 +11,3 @@
 
 ## Keep in touch
 [micheleriva.it](https://www.micheleriva.it) · [Twitter](https://twitter.com/MicheleRivaCode) · [LinkedIn](https://www.linkedin.com/in/micheleriva95)
-
-## Social presence
-Definitely not an influencer <br />
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCgZgEdT-H9bSqhumMiWybXA?color=green&label=YouTube%20total%20Views&logo=YouTube&style=flat-square)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgZgEdT-H9bSqhumMiWybXA?color=green&label=YouTube%20Subscribers&logo=YouTube&style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/MicheleRivaCode?color=blue&label=Twitter%20Followers&logo=Twitter&style=flat-square)
