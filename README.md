@@ -9,9 +9,9 @@
 - 🎥   I make videos about **programming languages** on **[YouTube](https://www.youtube.com/channel/UCgZgEdT-H9bSqhumMiWybXA)**
 - 🙏   You can sponsor my work on GitHub sponsors: [https://github.com/sponsors/micheleriva](https://github.com/sponsors/micheleriva)
 
-## Keep in touch
-[micheleriva.it](https://www.micheleriva.it) · [Twitter](https://twitter.com/MicheleRivaCode) · [LinkedIn](https://www.linkedin.com/in/micheleriva95)
-
 <p align="center">
   <img src="https://metrics.lecoq.io/MicheleRiva?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=vue%2Cmakefile%2Ccss%2Chtml%2Cscss%2Cbrainfuck%2Cjavascript&languages.limit=10&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome" />
 </p>
+
+## Keep in touch
+[micheleriva.it](https://www.micheleriva.it) · [Twitter](https://twitter.com/MicheleRivaCode) · [LinkedIn](https://www.linkedin.com/in/micheleriva95)
