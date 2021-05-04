@@ -12,5 +12,5 @@
 <br />
 <br />
 <p align="center">
-  <img src="https://metrics.lecoq.io/MicheleRiva?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=vue%2Cmakefile%2Ccss%2Chtml%2Cscss%2Cbrainfuck%2Cjavascript&languages.limit=10&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome" />
+  <img src="/metrics_renders/github-metrics.svg" />
 </p>
