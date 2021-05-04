@@ -12,5 +12,5 @@
 <br />
 <br />
 <p align="center">
-  <img src="/metrics_renders/github-metrics.svg" />
+  <img src="/github-metrics.svg" />
 </p>
