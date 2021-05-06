@@ -8,6 +8,7 @@
 - ✍️    I write **[dozens of public domains articles](https://www.hackdoor.io/users/micheleriva)**
 - 🎥   I make videos about **programming languages** on **[YouTube](https://www.youtube.com/channel/UCgZgEdT-H9bSqhumMiWybXA)**
 - 🙏   You can sponsor my work on GitHub sponsors: [https://github.com/sponsors/micheleriva](https://github.com/sponsors/micheleriva)
+- 🏳️‍🌈 He/Him
 
 <br />
 <br />
